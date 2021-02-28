@@ -1,4 +1,4 @@
-# A guessing game between 1 & 10
+ # A guessing game between 1 & 10
 
 import random
 num = random.randint(1,100)
